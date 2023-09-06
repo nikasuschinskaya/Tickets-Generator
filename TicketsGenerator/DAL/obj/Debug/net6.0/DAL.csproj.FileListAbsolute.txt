@@ -1,0 +1,28 @@
+D:\Учеба\Проекты на C#\TicketsGenerator\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\Учеба\Проекты на C#\TicketsGenerator\DAL\bin\Debug\net6.0\DAL.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\DAL\bin\Debug\net6.0\DAL.pdb
+D:\Учеба\Проекты на C#\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Учеба\Проекты на C#\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Проекты на C#\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Учеба\Проекты на C#\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\Учеба\Проекты на C#\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Учеба\Проекты на C#\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.pdb
+D:\Учеба\Проекты на C#\TicketsGenerator\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\DAL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.csproj.ResolveComReference.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Study\Конференции\wthNN\TicketsGenerator\DAL\bin\Debug\net6.0\DAL.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Study\Конференции\wthNN\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\DAL\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.csproj.ResolveComReference.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Конференции\wthNN\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Study\Конференции\wthNN\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Study\Конференции\wthNN\TicketsGenerator\DAL\obj\Debug\net6.0\ref\DAL.dll

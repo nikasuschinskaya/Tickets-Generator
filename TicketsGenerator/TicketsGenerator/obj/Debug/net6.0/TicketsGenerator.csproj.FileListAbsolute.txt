@@ -1,0 +1,44 @@
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\TicketsGenerator.exe
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\TicketsGenerator.deps.json
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\TicketsGenerator.runtimeconfig.json
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\TicketsGenerator.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\TicketsGenerator.pdb
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.csproj.AssemblyReference.cache
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.AssemblyInfoInputs.cache
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.AssemblyInfo.cs
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.csproj.CoreCompileInputs.cache
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\refint\TicketsGenerator.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.pdb
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.genruntimeconfig.cache
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\ref\TicketsGenerator.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\BLL.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\DAL.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\BLL.pdb
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\DAL.pdb
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.csproj.CopyComplete
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\CsvHelper.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\Microsoft.Office.Interop.Word.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\TicketsGenerator.exe
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\TicketsGenerator.deps.json
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\TicketsGenerator.runtimeconfig.json
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\TicketsGenerator.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\TicketsGenerator.pdb
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\CsvHelper.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\Microsoft.Office.Interop.Word.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\BLL.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\DAL.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\BLL.pdb
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\bin\Debug\net6.0\DAL.pdb
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.csproj.AssemblyReference.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.AssemblyInfoInputs.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.AssemblyInfo.cs
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.csproj.CoreCompileInputs.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.csproj.CopyComplete
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\refint\TicketsGenerator.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.pdb
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\TicketsGenerator.genruntimeconfig.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\TicketsGenerator\obj\Debug\net6.0\ref\TicketsGenerator.dll

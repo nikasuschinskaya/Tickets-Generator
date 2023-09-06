@@ -1,0 +1,30 @@
+D:\Учеба\Проекты на C#\TicketsGenerator\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\Учеба\Проекты на C#\TicketsGenerator\BLL\bin\Debug\net6.0\BLL.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\BLL\bin\Debug\net6.0\BLL.pdb
+D:\Учеба\Проекты на C#\TicketsGenerator\BLL\bin\Debug\net6.0\DAL.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\BLL\bin\Debug\net6.0\DAL.pdb
+D:\Учеба\Проекты на C#\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\Учеба\Проекты на C#\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Проекты на C#\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\Учеба\Проекты на C#\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\Учеба\Проекты на C#\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\Учеба\Проекты на C#\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\Учеба\Проекты на C#\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.pdb
+D:\Учеба\Проекты на C#\TicketsGenerator\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Study\Конференции\wthNN\TicketsGenerator\BLL\bin\Debug\net6.0\BLL.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Study\Конференции\wthNN\TicketsGenerator\BLL\bin\Debug\net6.0\DAL.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Study\Конференции\wthNN\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Конференции\wthNN\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Study\Конференции\wthNN\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Study\Конференции\wthNN\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Study\Конференции\wthNN\TicketsGenerator\BLL\obj\Debug\net6.0\ref\BLL.dll

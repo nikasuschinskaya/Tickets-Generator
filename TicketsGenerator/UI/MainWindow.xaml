@@ -1,0 +1,28 @@
+﻿<Window x:Class="UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI"
+        mc:Ignorable="d"
+        Title="MainWindow" 
+        Height="600" 
+        Width="600"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <Label FontSize="20">Выберите количество вопросов в билете:</Label>
+            <TextBox x:Name="countQuestionsTB" Text="3" Width="50" FontSize="20"></TextBox>
+        </StackPanel>
+        <TextBox x:Name="newFileNameTB" Grid.Row="1" FontSize="20"></TextBox>
+        <Button Grid.Row="2" Content="Открыть файл" FontSize="20" Click="OpenFileButton_Click" x:Name="openFileBut"></Button>
+        <Button Grid.Row="3" Content="Сохранить выходной файл" FontSize="20" IsEnabled="False" Click="SaveButton_Click" x:Name="saveFileBut"></Button>
+    </Grid>
+</Window>

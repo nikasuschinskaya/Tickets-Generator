@@ -1,0 +1,67 @@
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\bin\Debug\net6.0-windows\UI.exe
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\bin\Debug\net6.0-windows\UI.deps.json
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\bin\Debug\net6.0-windows\UI.runtimeconfig.json
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\bin\Debug\net6.0-windows\UI.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\bin\Debug\net6.0-windows\UI.pdb
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.csproj.AssemblyReference.cache
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\App.g.cs
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI_MarkupCompile.cache
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI_MarkupCompile.lref
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.g.resources
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.AssemblyInfoInputs.cache
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.AssemblyInfo.cs
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.csproj.CoreCompileInputs.cache
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\refint\UI.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.pdb
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.genruntimeconfig.cache
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\ref\UI.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\bin\Debug\net6.0-windows\CsvHelper.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\bin\Debug\net6.0-windows\DAL.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\bin\Debug\net6.0-windows\DAL.pdb
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.csproj.CopyComplete
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\bin\Debug\net6.0-windows\BLL.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\bin\Debug\net6.0-windows\BLL.pdb
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Word.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\Учеба\Проекты на C#\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.csproj.ResolveComReference.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\UI.exe
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\UI.deps.json
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\UI.runtimeconfig.json
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\UI.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\UI.pdb
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\BitMiracle.LibTiff.NET.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\IronSoftware.Drawing.Common.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\SixLabors.ImageSharp.Drawing.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\IronXL.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\BLL.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\DAL.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.csproj.AssemblyReference.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.csproj.ResolveComReference.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI_MarkupCompile.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI_MarkupCompile.lref
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.g.resources
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.AssemblyInfoInputs.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.AssemblyInfo.cs
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.csproj.CopyComplete
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\refint\UI.dll
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.pdb
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\UI.genruntimeconfig.cache
+C:\Study\Конференции\wthNN\TicketsGenerator\UI\obj\Debug\net6.0-windows\ref\UI.dll
