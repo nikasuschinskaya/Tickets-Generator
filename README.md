@@ -13,4 +13,4 @@ Tickets Generator is a program that generates a balanced set of tickets in terms
 
 ## Generate tickets
 
-![image](https://github.com/nikasuschinskaya/Tickets-Generator/assets/92970744/25f2941d-81c1-4c42-9a2e-cf84cb38523b)
+![TicketGenerator](https://github.com/nikasuschinskaya/Tickets-Generator/assets/92970744/aa3aa1a0-0b85-4603-b35a-a82207273e21)
